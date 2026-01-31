@@ -19,12 +19,8 @@ I build clean, scalable APIs and production-ready web applications with a touch 
 - Authentication & dashboard
 - Custom short URLs
 - Production-ready structure  
-**Repo:** https://github.com/your-username/url-shortener
+**Repo:** https://github.com/mesworup/URL_Shortener
 
-#### 🩺 Pneumonia Detection API
-- Node.js backend + FastAPI ML service
-- REST APIs tested via Postman  
-**Repo:** https://github.com/your-username/pneumonia-detection
 
 ---
 
