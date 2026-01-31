@@ -1,22 +1,15 @@
-## Hi there 👋
+## Hi, I'm Sworup 👋
 
-<!--
-**mesworup/mesworup** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...## Hi, I'm Sworup Razz 👋
-
-Backend-focused developer specializing in Django, FastAPI, and Node.js.  
-I build clean, scalable APIs and production-ready web applications.
+DevOps Engineer and Backend-focused developer specializing in Python Django and FastAPI.  
+I build clean, scalable APIs and production-ready web applications with a touch of DevOps practices.
 
 ---
 
 ### 💻 Tech Stack
-- **Backend:** Python (Django, FastAPI), Node.js (Express)
-- **Databases:** PostgreSQL, MySQL, MongoDB, SQLite
+- **Backend:** Python (Django, FastAPI)
+- **Databases:** PostgreSQL, MySQL, MongoDB
 - **Frontend:** HTML, CSS, JavaScript, React (basic)
-- **Tools:** Git, Docker, Postman, Linux
+- **DevOps:** OracleVirtualBox, Linux, Git, Docker, Jenkins, SonarQube, AWS, Kubernetes, Ansible, Terraform, Prometheus and Grafana 
 
 ---
 
@@ -33,21 +26,11 @@ I build clean, scalable APIs and production-ready web applications.
 - REST APIs tested via Postman  
 **Repo:** https://github.com/your-username/pneumonia-detection
 
-#### 🌐 Portfolio Website
-- Responsive personal portfolio  
-**Live:** https://your-portfolio-link
-
 ---
 
 ### 📫 Contact
-- LinkedIn: https://linkedin.com/in/your-profile
-- Email: your-email@gmail.com
+- LinkedIn: https://www.linkedin.com/in/sworuprajghatani/
+- Email: razzsworup@gmail.com
 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
