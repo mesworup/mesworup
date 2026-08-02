@@ -6,7 +6,7 @@ I build clean, scalable APIs and production-ready web applications with a touch 
 ---
 
 ### 💻 Tech Stack
-- **Backend:** Python (Django, Django REST-Framework FastAPI)
+- **Backend:** Python (Django, Django REST-Framework, FastAPI)
 - **Databases:** PostgreSQL, MySQL, MongoDB
 - **Frontend:** HTML, CSS, JavaScript, React (basic)
 - **DevOps:** OracleVirtualBox, Linux, Git, Docker, Jenkins, SonarQube, AWS, Kubernetes, Ansible, Terraform, Prometheus and Grafana 
