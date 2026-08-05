@@ -1,6 +1,6 @@
 ## Hi, I'm Sworup 👋
 
-Aspiring DevOps Engineer and Backend-focused developer specializing in Python, Django and REST API.  
+Aspiring DevOps Engineer and Full-Stack Developer specializing in Python, Django and REST API.  
 I build clean, scalable APIs and production-ready web applications with a touch of DevOps practices.
 
 ---
